@@ -16,4 +16,5 @@ npm run build
 - Real-time Delhi AQI data
 - Indian & US EPA AQI standards
 - Interactive pollution simulation
+
 - Arduino hardware integration (optional)
